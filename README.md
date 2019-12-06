@@ -1,4 +1,4 @@
-Repository of various functions and scripts
+**Repository of various functions and scripts.**
 
 `random_pick.py`
 Script to pick *n* random samples in a population from an EIGENSTRAT-formatted file (cf. https://reich.hms.harvard.edu/software/InputFileFormats).
